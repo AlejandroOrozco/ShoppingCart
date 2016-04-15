@@ -1,0 +1,30 @@
+PODS:
+  - ActionSheetPicker-3.0 (2.0.5)
+  - Alamofire (3.3.1)
+  - Haneke (1.0.2)
+  - ObjectMapper (1.2.0)
+  - Realm (0.98.7):
+    - Realm/Headers (= 0.98.7)
+  - Realm/Headers (0.98.7)
+  - RealmSwift (0.98.7):
+    - Realm (= 0.98.7)
+  - SVProgressHUD (2.0.3)
+
+DEPENDENCIES:
+  - ActionSheetPicker-3.0 (~> 2.0.4)
+  - Alamofire (~> 3.0)
+  - Haneke (~> 1.0)
+  - ObjectMapper (~> 1.1)
+  - RealmSwift
+  - SVProgressHUD
+
+SPEC CHECKSUMS:
+  ActionSheetPicker-3.0: 8312778b6815578e6a86d630fbcf31dc94c534e7
+  Alamofire: 369bc67b6f5ac33ded3648d7bd21c5bfb91c2ecc
+  Haneke: 01454a67322faa0dd9d81fc0f447885044e71521
+  ObjectMapper: b1e9c7c8a9f6400b72690c80072c131504caa66f
+  Realm: 46df2178359b6b57812e6cf957956febaba513a5
+  RealmSwift: 3056e6d7ad30ed50dd866185a615fccea73db5f5
+  SVProgressHUD: b0830714205bea1317ea1a2ebc71e5633af334d4
+
+COCOAPODS: 0.38.2

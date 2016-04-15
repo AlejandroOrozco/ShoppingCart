@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  Shopping Cart
+
+  Created by Alejandro Orozco Builes on 10/04/16.
+  Copyright © 2016 Alejandro Orozco Builes. All rights reserved.
+*/
+
+"ERROR_DEFAULT_MESSAGE" = "Ha ocurrido un error, inténtalo mas tarde.";
+"ERROR_CAN_NOT_CONNECT_TO_HOST_MESSAGE" = "Error de conexión. No es posible conectarse con el servidor.";
+"ERROR_NETWORK_CONNECTION_LOST_MESSAGE" = "Error de conexión. Verifica el estado de tu conexión a internet.";
+"ERROR_NO_INTERNET_CONNECTION_MESSAGE" = "Error de conexión. Verifica que tu dispositivo se encuentra conectado a internet.";
+"ERROR_REQUEST_TIMEOUT_MESSAGE" = "La solicitud está tardando demasiado. Por favor inténtalo nuevamente.";
+"ERROR_UNAUTHORIZED_MESSAGE" = "El usuario no se encuentra autorizado en la aplicación.";
+
+
+"Button_Acept" = "Aceptar";

@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "152C3D080A412D7C73F05E50ADF89E3DED223798",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "AC1DD190D4709ED5B052B18E33BB5464E45812A5" : 0,
+    "152C3D080A412D7C73F05E50ADF89E3DED223798" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "686F68FD-C934-4317-8878-707AF95FB795",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "AC1DD190D4709ED5B052B18E33BB5464E45812A5" : "reporteTiempos_ios\/",
+    "152C3D080A412D7C73F05E50ADF89E3DED223798" : "Shopping%20Cart\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Shopping Cart",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Shopping Cart.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/AlejandroOrozco\/shoppingcart.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "152C3D080A412D7C73F05E50ADF89E3DED223798"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/intergrupo\/reporteTiempos_ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "AC1DD190D4709ED5B052B18E33BB5464E45812A5"
+    }
+  ]
+}
